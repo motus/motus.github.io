@@ -1,0 +1,8 @@
+# Build settings
+permalink: pretty
+markdown: kramdown
+
+# Site settings
+title: Sergiy Matusevych
+email: sergiy.matusevych@gmail.com
+github_username: motus
