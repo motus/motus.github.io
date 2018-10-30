@@ -1,6 +1,7 @@
 ---
 layout: default
 title: pytorch-annotated project
+date: 2018-10-19
 ---
 
 # pytorch-annotated project

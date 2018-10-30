@@ -1,6 +1,7 @@
 ---
 layout: default
 title: pytorch-annotated Part 1
+date: 2018-10-22
 ---
 
 # pytorch-annotated: MNIST Example Part 1

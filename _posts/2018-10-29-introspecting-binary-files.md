@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Introspecting Binary Files in Linux
+date: 2018-10-29
 ---
 
 # Analyzing Linux object files
