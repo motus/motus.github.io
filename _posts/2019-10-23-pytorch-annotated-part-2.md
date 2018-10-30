@@ -5,7 +5,7 @@ title: pytorch-annotated Part 2
 
 # pytorch-annotated: MNIST Example Part 2
 
-In the secont part of my
+In the second part of my
 [PyTorch MNIST example](https://github.com/pytorch/examples/tree/master/mnist) annotation
 I cover the forward propagation and `torch.nn` components used in the example.
 
