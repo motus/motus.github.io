@@ -1,3 +1,7 @@
+---
+layout: default
+title: Introspecting Binary Files in Linux
+---
 
 # Analyzing Linux object files
 
@@ -11,6 +15,8 @@ Object files in Linux come in four different flavors:
 * An executable (usually in ELF format).
 
 In this tutorial you will learn how to introspect all four types of binary files.
+
+<!-- MORE -->
 
 ## Dynamic dependencies
 
@@ -72,7 +78,7 @@ command ("nm" stands for "name"). It works for all four types of object files, i
 A useful incantation is `nm -gC --defined-only`, e.g.
 
 ```text
-sergiym@MOTUS-DESK:~/devel/libtorch/lib:$ nm -gC --defined-only libcaffe2.so
+$ nm -gC --defined-only libcaffe2.so
 0000000007f5b1e0 D backend_lib
 0000000007f609c0 B __bss_start
 00000000014251b0 T cblas_dcopy

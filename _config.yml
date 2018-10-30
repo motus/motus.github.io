@@ -6,3 +6,5 @@ markdown: kramdown
 title: Sergiy Matusevych
 email: sergiy.matusevych@gmail.com
 github_username: motus
+
+excerpt_separator: <!-- MORE -->

@@ -2,6 +2,9 @@
 layout: default
 title: Sergiy Matusevych
 ---
-# Sergiy Matusevych
 
-This page tells you a little bit about me.
+## Recent posts
+
+{% for post in site.posts %}
+* {{ post.date | date_to_string }} [{{ post.title }}]({{ post.url }})
+{% endfor %}
