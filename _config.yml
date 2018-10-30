@@ -7,4 +7,6 @@ title: Sergiy Matusevych
 email: sergiy.matusevych@gmail.com
 github_username: motus
 
+theme: jekyll-theme-minimal
+
 excerpt_separator: <!-- MORE -->
