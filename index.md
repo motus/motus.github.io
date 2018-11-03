@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sergiy Matusevych
+title: Recent posts
 ---
 
 ## Recent posts
