@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Recent posts
+title: Home
 ---
 
-## Recent posts
+## Index
 
 {% for post in site.posts %}
 * {{ post.date | date_to_string }} [{{ post.title }}]({{ post.url }})

@@ -4,6 +4,7 @@ markdown: kramdown
 
 # Site settings
 title: Stochastic Learnings
+author: Sergiy Matusevych
 email: sergiy.matusevych@gmail.com
 github_username: motus
 
