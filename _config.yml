@@ -8,7 +8,8 @@ author: Sergiy Matusevych
 email: sergiy.matusevych@gmail.com
 github_username: motus
 
+# theme: minima
 # theme: jekyll-theme-minimal
-theme: minima
+theme: jekyll-theme-architect
 
 excerpt_separator: <!-- MORE -->
