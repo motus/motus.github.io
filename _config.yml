@@ -1,9 +1,13 @@
 # Build settings
+
 permalink: pretty
 markdown: kramdown
 
 # Site settings
+
 title: Stochastic Learnings
+description: Random walk in the land of machine learning, algorithms, and software engineering.
+
 author: Sergiy Matusevych
 email: sergiy.matusevych@gmail.com
 github_username: motus
@@ -13,3 +17,7 @@ github_username: motus
 theme: jekyll-theme-architect
 
 excerpt_separator: <!-- MORE -->
+
+show_downloads: false
+google_analytics: UA-131135870-1
+
