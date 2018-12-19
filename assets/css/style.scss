@@ -3,3 +3,19 @@
 
 @import "{{ site.theme }}";
 
+body {
+    font-size: 18px;
+}
+
+.inner {
+    width: 80%; // 940px;
+}
+
+#main-content {
+    width: 80%; // 690px;
+}
+
+code, pre {
+    font-family: "Fira Code", Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+    font-size: 16px;
+}
