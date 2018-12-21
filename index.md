@@ -9,7 +9,9 @@ title: Home
 
 {{ post.excerpt }}
 
-* **Read more:** [{{ post.title }}]({{ post.url }})
+{% if post.excerpt != post.content %}
+**Read more:** [{{ post.title }}]({{ post.url }})
+{% endif %}
 
 ---
 
