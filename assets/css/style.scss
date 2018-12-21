@@ -18,6 +18,9 @@ body {
 code, pre {
     font-family: "Fira Code", Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
     font-size: 15px;
-    background-color: #f2f8fc;
-    background: #f2f8fc;
+}
+
+pre code {
+    background-color: #f8f8f8;
+    background: #f8f8f8;
 }
