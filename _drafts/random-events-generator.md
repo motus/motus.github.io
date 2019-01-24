@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "My favorite interivew question: random events generator"
+title: "My favorite interview question: random events generator"
 ---
 
-# My favorite interivew question: random events generator
+# My favorite interview question: random events generator
 
 This problem had been my favorite interview question since 2006 when I got it on my phone screen
 with one big internet company. Since then, I gave it to quite a few candidates myself. Now I feel
