@@ -11,6 +11,10 @@ header h1, header h2 {
     width: 80%; // 540px;
 }
 
+#main-content h1, #main-content h2, #main-content h3 {
+    font-family: unset;
+}
+
 .inner {
     width: 90%; // 940px;
 }
