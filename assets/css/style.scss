@@ -11,12 +11,12 @@ header h1, header h2 {
     width: 80%; // 540px;
 }
 
-#main-content h1, #main-content h2, #main-content h3, #main-content h4 {
-    font-family: unset;
-}
-
 .inner {
     width: 90%; // 940px;
+}
+
+#main-content h1, #main-content h2, #main-content h3, #main-content h4 {
+    font-family: unset;
 }
 
 #main-content {
